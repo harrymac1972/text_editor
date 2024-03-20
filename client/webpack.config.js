@@ -45,8 +45,7 @@ module.exports = () => {
             destination: path.join('assets', 'icons'),
           },
         ],
-      }),
-      
+      }),      
     ],
 
     module: {
