@@ -4,7 +4,7 @@
 
 ## Description
 
-__
+Jate-PWA is a single-page text editing web application designed to meet the criteria of a Progressive Web App (PWA). This means it can be installed on a user's device and utilized offline, while still functioning within the browser. Utilizing various web technologies such as IndexedDB for data storage, webpack for JavaScript file compilation, and service workers for offline capabilities, this application ensures seamless usage. With a user-friendly interface, it allows effortless note-taking and saving. Additionally, users can easily install the text editor for quick access directly from their device's home screen or app menu.
 
 ## Table of Contents
 - [Installation](#installation)
