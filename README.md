@@ -54,4 +54,4 @@ n/a
 <a href="https://github.com/harrymac1972/text_editor">Text Editor on Github</a>
 
 ## Heroku Link
-n/a _
+<a href="https://rocky-sea-17449-8e9d586ddb44.herokuapp.com/">Text Editor on Heroku</a>
