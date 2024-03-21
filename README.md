@@ -17,18 +17,18 @@ __
 - [Demonstration Video](#video)
 - [GitHub Link](#github-link)
 
-## Features
+## Installation
+1. "**Node.js**" must be installed on local machine.
+2. Once in your project folder please type "**npm i -y**" for all dependencies.
 
-_
+## Usage
+Clone the repository to your local machine.
+`git clone https://github.com/harrymac1972/text_editor.git`<br>
+Navigate to the project directory.
+`cd tech-blog`<br>
+Install the required dependencies.
+`npm install`
 
-## Technologies Used
-_
-
-## Setup and Installation
-Clone the repository: `git clone https://github.com/harrymac1972/text_editor`<br>
-Navigate to the project directory: `cd text_editor`<br>
-Install dependencies: `npm install`<br>
-Start the server: `npm run start`<br>
 
 ## License
 This application is licensed by: [MIT](https://opensource.org/licenses/MIT)
@@ -45,15 +45,13 @@ If you have any questions, please contact:
 -- harrymac1972@gmail.com.
 
 ## Screenshots
-![Screenshot_1](./imgs/info/get_api_users_test.png)
+![Screenshot_1](./imgs/screen_shot.png)
 
 ## Demonstration Video
 n/a
 
 ## GitHub Link
-<a href="https://github.com/harrymac1972/social_network_API_mongoose">Social Network API Mongoose on Github</a>
+<a href="https://github.com/harrymac1972/text_editor">Text Editor on Github</a>
 
 ## Heroku Link
 n/a
-
-
