@@ -25,7 +25,7 @@ Jate-PWA is a single-page text editing web application designed to meet the crit
 Clone the repository to your local machine.
 `git clone https://github.com/harrymac1972/text_editor.git`<br>
 Navigate to the project directory.
-`cd tech-blog`<br>
+`cd text-editor`<br>
 Install the required dependencies.
 `npm install`
 
